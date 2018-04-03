@@ -1,5 +1,5 @@
-# Palindrome checker in Java
+# Palíndrico in Java
 
-Is my implementation to check palindrome words with some improvements i think works great.
+It is my own implementation to verify the words of Palindrome with some improvements, I think it works very well. Maybe this could have more performance, but anyway it looks very good for now.
 
-Give me a start if you like it.
+If you see it and you like it, do not hesitate to give me a star.
